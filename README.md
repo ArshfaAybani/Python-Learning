@@ -28,10 +28,5 @@ I started learning Python in 2026, and this repository documents my growth as a 
 
 This repository will be updated regularly as I complete new projects and continue learning.
 
-## 🤝 Feedback
-
-Suggestions and constructive feedback are always appreciated. If you have ideas for improvements or beginner-friendly project recommendations, feel free to share them.
-
----
-
+***
 *Every expert was once a beginner.*
