@@ -33,17 +33,17 @@ The objective of this project is to strengthen understanding of core Python conc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-calculator.git
+   git clone https://github.com/ArshfaAybani/Calc.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd python-calculator
+   cd Calc.py
    ```
 
 3. Run the program:
    ```bash
-   python calculator.py
+   python Calc.py
    ```
 
 ## Project Status
@@ -59,7 +59,3 @@ Completed as a beginner practice project. Future improvements may include:
 ## Learning Journey
 
 This repository marks the beginning of my Python development journey. As I continue learning, I'll revisit earlier projects to improve code quality, add new features, and apply best practices.
-
-## License
-
-This project is available under the MIT License.
