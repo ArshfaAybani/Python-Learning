@@ -33,12 +33,12 @@ The objective of this project is to strengthen understanding of core Python conc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArshfaAybani/Calc.git
+   git clone https://github.com/ArshfaAybani/Python-Learning.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Calc.py
+   cd Command-line-calculator.py
    ```
 
 3. Run the program:
