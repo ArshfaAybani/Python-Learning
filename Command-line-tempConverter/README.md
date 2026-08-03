@@ -23,13 +23,13 @@ A simple command-line temperature converter built with Python. This beginner-fri
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/ArshfaAybani/Command-line-tempConverter.git
+git clone https://github.com/ArshfaAybani/Python-Learning.git
 ```
 
 3. Navigate to the project folder:
 
 ```bash
-cd Command-line-tempConverter.py
+cd Command-line-tempConverter
 ```
 
 4. Run the program:
