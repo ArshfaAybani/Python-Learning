@@ -10,7 +10,8 @@ I started learning Python in 2026, and this repository documents my growth as a 
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| Calculator | A basic command-line calculator that performs arithmetic operations. | ✅ Completed |
+| Calculator | A basic command-line calculator that performs arithmetic operations. | Completed |
+| Temperature Converter | A basic command-line Temperature Converter that uses conditions and  arithmetic operations. | Completed |
 
 ## Technologies Used
 
